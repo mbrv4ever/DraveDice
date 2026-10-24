@@ -2,6 +2,12 @@
 
 Een dobbelsteen-roller voor D&D en andere tafelspellen. Lokaal, offline, gratis (met donatie). Grote, goed leesbare cijfers.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveDice](https://dravenlock.nl/video/DraveDice.jpg)](https://dravenlock.nl/video/DraveDice.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveDice.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Games · versie 0.2.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
